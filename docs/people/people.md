@@ -20,3 +20,4 @@ Below is a list of people who you can reach out to and provide some background.
 | Andrew | acao@mcw.edu | I have done half of the R tutorial |
 |Malone|mfriedman@mcw.edu||
 | Katie | ktaquet@mcw.edu | |
+| Guadalupe | gvaldivia@mcw.edu | No experience coding |
